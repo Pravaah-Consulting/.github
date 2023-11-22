@@ -4,7 +4,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 Check us out at:
 
-- Link: https://www.pravaahconsulting.com
+- https://www.pravaahconsulting.com
 - Address: 7852 Ridgeline Place, Dublin, California 94568, United States
 - Contact Us: +1 (925) 587-4249
 - [LinkedIn](https://in.linkedin.com/company/pravaahconsulting)
