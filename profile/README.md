@@ -4,18 +4,23 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 ### Here are some of our amazing developers:
 
-1. Nayan Hadke - Full Stack Developer - Level 2
-2. Anweshan Roy Chowdhury - Full Stack Developer - Level 1
+1. Nayan Hadke - Technology Lead
+2. Anweshan Roy Chowdhury - Senior Software Engineer
 
 #### Associate Developers
 
-1. Avanind Prajapati - Associate Developer - L1
-2. Avinash Kumar - Software Developer (iOS)
-3. Suman Kesav - Associate Developer - L1
-4. Aathi Rajan - Associate Developer - L1
-7. Vishal Chaubey - Associate Developer
-4. Suraj Prajapati - Associate Developer - L1
-5. Sukhi MS - Associate Developer - L1
+1. Avanind Prajapati - Associate Developer L1 - Full Stack Developer (Sr)
+2. Avinash Kumar - Associate Developer L1 - Mobile Application (iOS)
+3. Suman Kesav - Associate Developer L1 - Caspio
+4. Aathi Rajan - Associate Developer L1 - Full Stack Developer
+7. Vishal Chaubey - Associate Developer L1 - Full Stack Developer
+4. Suraj Prajapati - Associate Developer L1 - Full Stack Developer
+5. Sukhi MS - Associate Developer L1 - Full Stack Developer
+6. Ruchitha C - Associate Developer L1 - Caspio
+7. Susindra Reddy - Associate Developer L1 - AI/ML
+8. Gayathri Priya - Associate Developer L1 - AI/ML
+9. Varun MS - Associate Developer L1 - Frontend Developer
+10. Sandip K. Das - Associate Developer L1 - Full Stack Developer
 
 
 
