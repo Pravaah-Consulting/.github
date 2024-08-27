@@ -9,7 +9,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 #### Associate Developers
 
-1. Avanind Prajapati - Associate Developer L1 - Full Stack Developer (Sr)
+1. Avanind Prajapati - Associate Developer L1 - Sr. Full Stack Developer
 2. Avinash Kumar - Associate Developer L1 - Mobile Application (iOS)
 3. Suman Kesav - Associate Developer L1 - Caspio
 4. Aathi Rajan - Associate Developer L1 - Full Stack Developer
