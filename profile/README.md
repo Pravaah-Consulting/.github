@@ -13,14 +13,34 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 2. Avinash Kumar - Associate Developer L1 - Mobile Application (iOS)
 3. Suman Kesav - Associate Developer L1 - Caspio
 4. Aathi Rajan - Associate Developer L1 - Full Stack Developer
-7. Vishal Chaubey - Associate Developer L1 - Full Stack Developer
-4. Suraj Prajapati - Associate Developer L1 - Full Stack Developer
-5. Sukhi MS - Associate Developer L1 - Full Stack Developer
-6. Ruchitha C - Associate Developer L1 - Caspio
-7. Susindra Reddy - Associate Developer L1 - AI/ML
-8. Gayathri Priya - Associate Developer L1 - AI/ML
-9. Varun MS - Associate Developer L1 - Frontend Developer
-10. Sandip K. Das - Associate Developer L1 - Full Stack Developer
+5. Vishal Chaubey - Associate Developer L1 - Full Stack Developer
+6. Suraj Prajapati - Associate Developer L1 - Full Stack Developer
+7. Sukhi MS - Associate Developer L1 - Full Stack Developer
+8. Ruchitha C - Associate Developer L1 - Caspio
+9. Susindra Reddy - Associate Developer L1 - AI/ML
+10. Gayathri Priya - Associate Developer L1 - AI/ML
+11. Varun MS - Associate Developer L1 - Frontend Developer
+12. Sandip K. Das - Associate Developer L1 - Full Stack Developer
+
+<!--
+#### Interns
+
+1. Likith R L - Intern - Full Stack Development
+2. Aabid Alam - Flutter Intern
+3. Rahul Joshi - Flutter Intern
+4. Raja Chowdhury - AI / ML Intern
+5. Jyotirmoy Biswas - Intern - Full Stack Developer
+6. Raj Aditya - AI/ML Intern
+7. Iman Samanta - AI / ML Intern
+8. Sudip Dhara - AI/ML Intern
+9. Laxmi Narayan Sahu - AI/ML Intern
+10. Sanskar Prasad - AI/ML Intern
+11. Chitransh - AI/ML Intern
+12. Arshak Roshan C - AI / ML Intern
+13. Divit Periwal - Intern
+14. Mridul Gupta - Intern - Full Stack Developer
+
+-->
 
 
 
