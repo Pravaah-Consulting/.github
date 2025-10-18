@@ -32,7 +32,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 21. Poushali Sen - Software Engineer (Full Stack Development) | Intern
 22. Arkaprava Dey - Software Engineer (Full Stack Development) | Intern
 
-###$ Here are our amazing testers
+### Here are our amazing testers
 
 1. Priyam Verma - Quality Assurance | Bangalore
 2. Ruchika Jamuar - Quality Assurance | Bangalore
