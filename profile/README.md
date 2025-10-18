@@ -4,44 +4,41 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 ### Here are some of our amazing developers:
 
-1. Nayan Hadke - Technology Lead
-2. Anweshan Roy Chowdhury - Senior Software Engineer
+1. Nayan Hadke - Technology Lead & Sr. Solution Architect
+2. Anweshan Roy Chowdhury - Team Lead (Development) & Solution Architect
 
-#### Associate Developers
+##$# Here is the rest of the team
 
-1. Avanind Prajapati - Associate Developer L1 - Sr. Full Stack Developer
-2. Avinash Kumar - Associate Developer L1 - Mobile Application (iOS)
-3. Suman Kesav - Associate Developer L1 - Caspio
-4. Aathi Rajan - Associate Developer L1 - Full Stack Developer
-5. Vishal Chaubey - Associate Developer L1 - Full Stack Developer
-6. Suraj Prajapati - Associate Developer L1 - Full Stack Developer
-7. Sukhi MS - Associate Developer L1 - Full Stack Developer
-8. Ruchitha C - Associate Developer L1 - Caspio
-9. Susindra Reddy - Associate Developer L1 - AI/ML
-10. Gayathri Priya - Associate Developer L1 - AI/ML
-11. Varun MS - Associate Developer L1 - Frontend Developer
-12. Sandip K. Das - Associate Developer L1 - Full Stack Developer
+1. Avanind Prajapati - Senior Software Engineer (Full Stack Development) | Kolkata
+2. Sangeeta Gupta - Senior Software Engineer (Mobile Application Development) | Bangalore
+3. Gayathri Priya - Senior Software Engineer (AI / ML Engineer) | Bangalore
+4. Suman Kesav - Software Engineer (Full Stack Development & Caspio) | Bangalore
+5. Avinash Kumar - Software Engineer (Mobile Application Development, iOS) | Kolkata
+6. Vishal Chaubey - Software Engineer (Full Stack Development) | Bangalore
+7. Suraj Prajapati - Software Engineer (Full Stack Development) | Bangalore
+8. Sandip Kumar Das - Software Engineer (Full Stack Development) | Kolkata
+9. Ruchitha C - Software Engineer (Full Stack Development & Caspio) | Bangalore
+10. Likhith RL - Software Engineer (Full Stack Development) | Bangalore
+11. Jyotirmoy Biswas - Software Engineer (Full Stack Development) | Kolkata
+12. Raja Chowdhury - Software Engineer (AI / ML Engineer) | Kolkata
+13. Chitransh - Software Engineer (AI / ML Engineer) | Kolkata
+14. Raj Aditya - Software Engineer (AI / ML Engineer) | Kolkata
+15. Laxmi Narayan Sahu - Software Engineer (AI / ML Engineer) | Kolkata
+16. Rahul Joshi - Software Engineer (Mobile Application Development) | Kolkata
+17. Aabid Alam - Software Engineer (Mobile Application Development) | Kolkata
+18. Mridul Gupta - Software Engineer (Mobile Application Development) | Bangalore
+19. Rahul Sharma - Software Engineer (Full Stack Development) | Kolkata
+20. Vivek Shrivastava - Software Engineer (Full Stack Development) | Intern
+21. Poushali Sen - Software Engineer (Full Stack Development) | Intern
+22. Arkaprava Dey - Software Engineer (Full Stack Development) | Intern
 
-<!--
-#### Interns
+###$ Here are our amazing testers
 
-1. Likith R L - Intern - Full Stack Development
-2. Aabid Alam - Flutter Intern
-3. Rahul Joshi - Flutter Intern
-4. Raja Chowdhury - AI / ML Intern
-5. Jyotirmoy Biswas - Intern - Full Stack Developer
-6. Raj Aditya - AI/ML Intern
-7. Iman Samanta - AI / ML Intern
-8. Sudip Dhara - AI/ML Intern
-9. Laxmi Narayan Sahu - AI/ML Intern
-10. Sanskar Prasad - AI/ML Intern
-11. Chitransh - AI/ML Intern
-12. Arshak Roshan C - AI / ML Intern
-13. Divit Periwal - Intern
-14. Mridul Gupta - Intern - Full Stack Developer
-
--->
-
+1. Priyam Verma - Quality Assurance | Bangalore
+2. Ruchika Jamuar - Quality Assurance | Bangalore
+3. Sukhi MS - Quality Assurance | Bangalore
+4. Nagaraj Gouda - Quality Assurance | Bangalore
+5. Priyanka Chatterjee - Quality Assurance | Kolkata
 
 
 
