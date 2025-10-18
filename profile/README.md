@@ -7,7 +7,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 1. Nayan Hadke - Technology Lead & Sr. Solution Architect
 2. Anweshan Roy Chowdhury - Team Lead (Development) & Solution Architect
 
-##$# Here is the rest of the team
+### Here is the rest of the team
 
 1. Avanind Prajapati - Senior Software Engineer (Full Stack Development) | Kolkata
 2. Sangeeta Gupta - Senior Software Engineer (Mobile Application Development) | Bangalore
