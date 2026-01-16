@@ -29,8 +29,9 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 18. Mridul Gupta - Software Engineer (Mobile Application Development) | Bangalore
 19. Rahul Sharma - Software Engineer (Full Stack Development) | Kolkata
 20. Vivek Shrivastava - Software Engineer (Full Stack Development) | Intern
-21. Poushali Sen - Software Engineer (Full Stack Development) | Intern
-22. Arkaprava Dey - Software Engineer (Full Stack Development) | Intern
+21. Poushali Sen - Software Engineer (Full Stack Development) | Intern | Kolkata
+22. Arkaprava Dey - Software Engineer (Full Stack Development) | Intern | Kolkata
+23. Aryan Doshi - Software Engineer (Full Stack Development) | Intern | Kolkata
 
 ### Here are our amazing testers
 
@@ -39,6 +40,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 3. Sukhi MS - Quality Assurance | Bangalore
 4. Nagaraj Gouda - Quality Assurance | Bangalore
 5. Priyanka Chatterjee - Quality Assurance | Kolkata
+6. Dinesh - Quality Assurance | Bangalore
 
 
 
