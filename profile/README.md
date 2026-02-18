@@ -5,7 +5,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 ### Here are some of our amazing developers:
 
 1. Nayan Hadke - Technology Lead & Sr. Solution Architect
-2. Anweshan Roy Chowdhury - Team Lead (Development) & Solution Architect
+2. Anweshan Roy Chowdhury - Engineering Team Lead & Solution Architect
 
 ### Here is the rest of the team
 
@@ -32,6 +32,7 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 21. Poushali Sen - Software Engineer (Full Stack Development) | Intern | Kolkata
 22. Arkaprava Dey - Software Engineer (Full Stack Development) | Intern | Kolkata
 23. Aryan Doshi - Software Engineer (Full Stack Development) | Intern | Kolkata
+24. Lingjenthoibi Sharungbam - Software Engineer (Full Stack Development) | Intern | Banaglore
 
 ### Here are our amazing testers
 
@@ -41,8 +42,9 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 4. Nagaraj Gouda - Quality Assurance | Bangalore
 5. Priyanka Chatterjee - Quality Assurance | Kolkata
 6. Dinesh - Quality Assurance | Bangalore
-
-
+7. Nagaveni Naik - Qualitity Assurance | Bangalore
+8. Rajeev Nandi - QA | Bangalore
+9. Prenita Toijam - QA | Bangalore
 
 Check us out at:
 
