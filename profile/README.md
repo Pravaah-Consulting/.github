@@ -39,12 +39,11 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 1. Priyam Verma - Quality Assurance | Bangalore
 2. Ruchika Jamuar - Quality Assurance | Bangalore
 3. Sukhi MS - Quality Assurance | Bangalore
-4. Nagaraj Gouda - Quality Assurance | Bangalore
-5. Priyanka Chatterjee - Quality Assurance | Kolkata
-6. Dinesh - Quality Assurance | Bangalore
-7. Nagaveni Naik - Qualitity Assurance | Bangalore
-8. Rajeev Nandi - QA | Bangalore
-9. Prenita Toijam - QA | Bangalore
+4. Priyanka Chatterjee - Quality Assurance | Kolkata
+5. Dinesh - Quality Assurance | Bangalore
+6. Nagaveni Naik - Qualitity Assurance | Bangalore
+7. Rajeev Nandi - QA | Bangalore
+8. Prenita Toijam - QA | Bangalore
 
 Check us out at:
 
