@@ -13,7 +13,6 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 2. Sangeeta Gupta - Senior Software Engineer (Mobile Application Development) | Bangalore
 3. Gayathri Priya - Senior Software Engineer (AI / ML Engineer) | Bangalore
 4. Suman Kesav - Software Engineer (Full Stack Development & Caspio) | Bangalore
-5. Avinash Kumar - Software Engineer (Mobile Application Development, iOS) | Kolkata
 6. Vishal Chaubey - Software Engineer (Full Stack Development) | Bangalore
 7. Suraj Prajapati - Software Engineer (Full Stack Development) | Bangalore
 8. Sandip Kumar Das - Software Engineer (Full Stack Development) | Kolkata
@@ -38,7 +37,6 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 1. Priyam Verma - Quality Assurance | Bangalore
 2. Ruchika Jamuar - Quality Assurance | Bangalore
-3. Sukhi MS - Quality Assurance | Bangalore
 4. Priyanka Chatterjee - Quality Assurance | Kolkata
 5. Dinesh - Quality Assurance | Bangalore
 6. Nagaveni Naik - Qualitity Assurance | Bangalore
