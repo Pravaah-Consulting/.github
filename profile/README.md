@@ -4,9 +4,9 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 ### Here are some of our amazing developers:
 
-1. Nayan Hadke - Technology Lead & Sr. Solution Architect
-2. Anweshan Roy Chowdhury - Engineering Team Lead & Solution Architect
-3. Avanind Prajapati - Engineering Team Lead | Kolkata
+1. Nayan Hadke - Development Manager
+2. Anweshan Roy Chowdhury - Technical Architect
+3. Avanind Prajapati - Engineering Team Lead.
 
 ### Here is the rest of the team
 
