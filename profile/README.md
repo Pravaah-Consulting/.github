@@ -6,31 +6,31 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 
 1. Nayan Hadke - Technology Lead & Sr. Solution Architect
 2. Anweshan Roy Chowdhury - Engineering Team Lead & Solution Architect
+3. Avanind Prajapati - Engineering Team Lead | Kolkata
 
 ### Here is the rest of the team
 
-1. Avanind Prajapati - Senior Software Engineer (Full Stack Development) | Kolkata
+
 2. Sangeeta Gupta - Senior Software Engineer (Mobile Application Development) | Bangalore
 3. Gayathri Priya - Senior Software Engineer (AI / ML Engineer) | Bangalore
 4. Suman Kesav - Software Engineer (Full Stack Development & Caspio) | Bangalore
 6. Vishal Chaubey - Software Engineer (Full Stack Development) | Bangalore
-7. Suraj Prajapati - Software Engineer (Full Stack Development) | Bangalore
+7. Suraj Prajapati - Senior Software Engineer (Full Stack Development) | Bangalore
 8. Sandip Kumar Das - Software Engineer (Full Stack Development) | Kolkata
 9. Ruchitha C - Software Engineer (Full Stack Development & Caspio) | Bangalore
 10. Likhith RL - Software Engineer (Full Stack Development) | Bangalore
-11. Jyotirmoy Biswas - Software Engineer (Full Stack Development) | Kolkata
 12. Raja Chowdhury - Software Engineer (AI / ML Engineer) | Kolkata
-13. Chitransh - Software Engineer (AI / ML Engineer) | Kolkata
 14. Raj Aditya - Software Engineer (AI / ML Engineer) | Kolkata
 15. Laxmi Narayan Sahu - Software Engineer (AI / ML Engineer) | Kolkata
-16. Rahul Joshi - Software Engineer (Mobile Application Development) | Kolkata
 17. Aabid Alam - Software Engineer (Mobile Application Development) | Kolkata
 18. Mridul Gupta - Software Engineer (Mobile Application Development) | Bangalore
 19. Rahul Sharma - Software Engineer (Full Stack Development) | Kolkata
-20. Vivek Shrivastava - Software Engineer (Full Stack Development) | Intern
+20. Vivek Shrivastava - Software Engineer (Full Stack Development) | Kolkata
 21. Poushali Sen - Software Engineer (Full Stack Development) | Intern | Kolkata
 22. Arkaprava Dey - Software Engineer (Full Stack Development) | Intern | Kolkata
 23. Aryan Doshi - Software Engineer (Full Stack Development) | Intern | Kolkata
+24. Mokshagna Reddy - Software Engineer (Full Stack Development) | Intern | Bangalore
+25. Ankit Das - Software Engineer (Full Stack Development) | Intern | Kolkata
 
 ### Here are our amazing testers
 
@@ -40,6 +40,11 @@ At Pravaah Consulting, the development team stands as a beacon of efficiency, ha
 5. Dinesh - Quality Assurance | Bangalore
 6. Nagaveni Naik - Qualitity Assurance | Bangalore
 7. Rajeev Nandi - QA | Bangalore
+
+### Here is our SME / Product Manager:
+
+1. Chitransh - SME, CeresGrid | Kolkata
+2. Kanchan Vyas - PM, OctopusSaaS
 
 Check us out at:
 
